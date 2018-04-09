@@ -51,6 +51,7 @@ public class PersonTest {
         p2.setStreet(street+"1");
         p2.setVehicleID(p2.getVehicleID()+"1");
 
+        Assert.assertEquals(p2.getId(), custId);
         Assert.assertEquals(p2.getCustId(), custId+1);
         Assert.assertEquals(p2.getName(), name+"1");
         Assert.assertEquals(p2.getEmail(), email+"1");
