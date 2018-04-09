@@ -1,0 +1,1537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7616a66-3c95-4d82-a8b1-aac5965f05a4" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/db.lck" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/log/log.ctrl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/log/log1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/log/logmirror.ctrl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c10.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c101.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c111.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c121.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c130.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c141.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c150.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c161.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c171.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c180.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c191.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c1a1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c1b1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c1c0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c1d1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c1e0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c1f1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c20.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c200.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c211.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c221.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c230.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c241.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c251.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c260.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c271.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c281.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c290.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c2a1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c2b1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c2c1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c2d0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c2e1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c2f0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c300.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c31.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c311.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c321.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c331.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c340.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c351.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c361.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c371.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c380.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c391.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c3a1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c3b1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c3c0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c3d1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c3e1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c3f1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c400.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c41.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c411.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c420.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c431.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c440.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c451.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c460.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c471.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c480.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c491.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c51.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c60.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c71.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c81.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/c90.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/ca1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/cb1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/cc0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/cd1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/ce1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/seg0/cf0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/FactoryDB/service.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/db.lck" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/log/log.ctrl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/log/log1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/log/logmirror.ctrl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c10.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c101.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c111.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c121.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c130.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c141.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c150.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c161.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c171.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c180.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c191.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c1a1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c1b1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c1c0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c1d1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c1e0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c1f1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c20.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c200.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c211.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c221.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c230.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c241.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c251.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c260.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c271.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c281.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c290.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c2a1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c2b1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c2c1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c2d0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c2e1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c2f0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c300.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c31.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c311.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c321.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c331.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c340.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c351.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c361.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c371.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c380.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c391.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c3a1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c3b1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c3c0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c3d1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c3e1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c3f1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c400.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c41.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c411.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c51.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c60.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c71.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c81.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/c90.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/ca1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/cb1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/cc0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/cd1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/ce1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/seg0/cf0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/GarageDB/service.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Log/1523257053897_Client.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Log/1523257062400_Client.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Log/1523260741489_Client.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Log/1523260774811_Client.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Log/1523260784168_Client.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Log/logfile.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SoCam.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/lib/derby.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/lib/jdom.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/lib/jlfgr-1_0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/lib/junit.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/lib/ktn_package.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/lib/ojdbc14.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/lib/xom-1.0b5.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/AddEcuAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/AddPersonAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/ConnectAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/DisconnectAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/EcuCellRenderer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/EcuListModel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/EcuPanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/EcuVehPanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/FactoryProjectPanel$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/FactoryProjectPanel$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/FactoryProjectPanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/NWPEcuPanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/NewAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/NewVehiclePanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/OpenAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/PersonCellRenderer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/PersonListModel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/PersonPanel$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/PersonPanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/ProjectPanel$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/ProjectPanel$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/ProjectPanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/RecallPanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/RemoveEcuAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/RemovePersonAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/SaveAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/SaveAsAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/SearchPersonAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/SearchVehicleIDAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/SoftwarePanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/VehiclePanel$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/gui/VehiclePanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/model/Ecu.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/model/FactoryProject.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/model/Person.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/model/Project.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/model/SimpleEcu.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/model/Software.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/model/Vehicle.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/model/XMLClient.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/model/XMLFormat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/model/XMLServer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/model/XmlSerializer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/net/Connection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/net/MessageListener.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/net/ReceiveWorker.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/net/co/AbstractConnection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/net/co/Connection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/net/co/ConnectionImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/net/co/GUIConnect.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/net/co/GUIServer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/net/co/IPTools.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/net/co/InternalReceiver.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/net/co/MessageListener.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/net/co/ReceiveWorker.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/net/co/SendTimer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/net/co/SimpleConnection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/net/co/TestCoClient.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/net/co/TestCoClientAndServer$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/net/co/TestCoClientAndServer$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/net/co/TestCoClientAndServer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/net/co/TestCoServer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/storage/CreateFactoryDB.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/storage/CreateGarageDB.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/storage/EcuDbStorage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/storage/FactoryDbStorage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/storage/FileStorage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/storage/GarageDbStorage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/storage/InsertTestDataFactoryDb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/storage/InsertTestDataGarageDb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/storage/SoftwareDbStorage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/storage/Storage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/storage/Testing.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/storage/VehicleDbStorage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/swingutil/EmailFormatter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/swingutil/FPFileFilter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/no/ntnu/fp/swingutil/RegexFormatter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/derby.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/.classpath" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/.project" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/db.lck" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/dbex.lck" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/log/log.ctrl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/log/log1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/log/logmirror.ctrl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c10.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c101.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c111.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c121.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c130.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c141.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c150.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c161.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c171.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c180.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c191.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c1a1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c1b1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c1c0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c1d1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c1e0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c1f1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c20.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c200.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c211.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c221.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c230.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c241.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c251.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c260.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c271.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c281.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c290.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c2a1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c2b1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c2c1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c2d0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c2e1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c2f0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c300.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c31.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c311.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c321.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c331.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c340.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c351.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c361.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c371.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c380.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c391.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c3a1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c3b1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c3c0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c3d1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c3e1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c3f1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c400.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c41.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c411.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c420.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c431.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c440.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c451.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c460.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c471.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c480.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c491.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c51.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c60.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c71.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c81.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/c90.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/ca1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/cb1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/cc0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/cd1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/ce1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/seg0/cf0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/FactoryDB/service.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/db.lck" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/dbex.lck" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/log/log.ctrl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/log/log1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/log/logmirror.ctrl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c10.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c101.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c111.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c121.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c130.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c141.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c150.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c161.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c171.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c180.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c191.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c1a1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c1b1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c1c0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c1d1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c1e0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c1f1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c20.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c200.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c211.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c221.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c230.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c241.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c251.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c260.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c271.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c281.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c290.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c2a1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c2b1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c2c1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c2d0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c2e1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c2f0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c300.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c31.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c311.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c321.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c331.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c340.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c351.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c361.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c371.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c380.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c391.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c3a1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c3b1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c3c0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c3d1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c3e1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c3f1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c400.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c41.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c411.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c51.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c60.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c71.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c81.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/c90.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/ca1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/cb1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/cc0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/cd1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/ce1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/seg0/cf0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/GarageDB/service.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/derby.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/lib/derby.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/lib/jdom.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/lib/jlfgr-1_0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/lib/junit.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/lib/ktn_package.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/lib/ojdbc14.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/lib/xom-1.0b5.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/AddEcuAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/AddPersonAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/ConnectAction$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/ConnectAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/DisconnectAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/EcuCellRenderer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/EcuListModel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/EcuPanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/EcuVehPanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/FactoryProjectPanel$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/FactoryProjectPanel$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/FactoryProjectPanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/NWPEcuPanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/NewAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/NewVehiclePanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/OpenAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/PersonCellRenderer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/PersonListModel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/PersonPanel$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/PersonPanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/ProjectPanel$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/ProjectPanel$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/ProjectPanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/RecallPanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/RemoveEcuAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/RemovePersonAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/SaveAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/SaveAsAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/SearchPersonAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/SearchVehicleIDAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/SoftwarePanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/VehiclePanel$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/gui/VehiclePanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/model/Ecu.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/model/FactoryProject.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/model/Person.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/model/Project.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/model/SimpleEcu.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/model/Software.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/model/Vehicle.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/model/XMLClient.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/model/XMLFormat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/model/XMLServer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/model/XmlSerializer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/net/Connection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/net/MessageListener.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/net/ReceiveWorker.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/net/co/AbstractConnection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/net/co/Connection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/net/co/ConnectionImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/net/co/GUIConnect.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/net/co/GUIServer$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/net/co/GUIServer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/net/co/IPTools.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/net/co/InternalReceiver.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/net/co/MessageListener.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/net/co/ReceiveWorker.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/net/co/SendTimer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/net/co/SimpleConnection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/net/co/TestCoClient.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/net/co/TestCoClientAndServer$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/net/co/TestCoClientAndServer$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/net/co/TestCoClientAndServer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/net/co/TestCoServer$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/net/co/TestCoServer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/storage/CreateFactoryDB.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/storage/CreateGarageDB.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/storage/EcuDbStorage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/storage/FactoryDbStorage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/storage/FileStorage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/storage/GarageDbStorage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/storage/InsertTestDataFactoryDb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/storage/InsertTestDataGarageDb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/storage/SoftwareDbStorage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/storage/Storage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/storage/Testing.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/storage/VehicleDbStorage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/swingutil/EmailFormatter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/swingutil/FPFileFilter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/SoCam/no/ntnu/fp/swingutil/RegexFormatter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/.classpath" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/.project" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/db.lck" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/dbex.lck" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/log/log.ctrl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/log/log1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/log/logmirror.ctrl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c10.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c101.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c111.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c121.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c130.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c141.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c150.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c161.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c171.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c180.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c191.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c1a1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c1b1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c1c0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c1d1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c1e0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c1f1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c20.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c200.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c211.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c221.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c230.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c241.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c251.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c260.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c271.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c281.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c290.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c2a1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c2b1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c2c1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c2d0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c2e1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c2f0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c300.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c31.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c311.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c321.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c331.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c340.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c351.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c361.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c371.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c380.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c391.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c3a1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c3b1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c3c0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c3d1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c3e1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c3f1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c400.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c41.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c411.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c420.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c431.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c440.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c451.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c460.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c471.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c480.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c491.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c51.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c60.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c71.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c81.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/c90.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/ca1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/cb1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/cc0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/cd1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/ce1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/seg0/cf0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FactoryDB/service.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/db.lck" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/dbex.lck" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/log/log.ctrl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/log/log1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/log/logmirror.ctrl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c10.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c101.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c111.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c121.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c130.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c141.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c150.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c161.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c171.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c180.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c191.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c1a1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c1b1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c1c0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c1d1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c1e0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c1f1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c20.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c200.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c211.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c221.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c230.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c241.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c251.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c260.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c271.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c281.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c290.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c2a1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c2b1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c2c1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c2d0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c2e1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c2f0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c300.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c31.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c311.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c321.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c331.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c340.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c351.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c361.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c371.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c380.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c391.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c3a1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c3b1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c3c0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c3d1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c3e1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c3f1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c400.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c41.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c411.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c51.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c60.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c71.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c81.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/c90.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/ca1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/cb1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/cc0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/cd1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/ce1.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/seg0/cf0.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GarageDB/service.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/derby.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/lib/derby.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/lib/jdom.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/lib/jlfgr-1_0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/lib/junit.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/lib/ktn_package.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/lib/ojdbc14.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/lib/xom-1.0b5.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/AddEcuAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/AddEcuAction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/AddPersonAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/AddPersonAction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/ConnectAction$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/ConnectAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/ConnectAction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/DisconnectAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/DisconnectAction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/EcuCellRenderer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/EcuCellRenderer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/EcuListModel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/EcuListModel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/EcuPanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/EcuPanel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/EcuVehPanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/EcuVehPanel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/FactoryProjectPanel$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/FactoryProjectPanel$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/FactoryProjectPanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/FactoryProjectPanel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/NWPEcuPanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/NWPEcuPanel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/NewAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/NewAction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/NewVehiclePanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/NewVehiclePanel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/OpenAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/OpenAction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/PersonCellRenderer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/PersonCellRenderer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/PersonListModel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/PersonListModel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/PersonPanel$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/PersonPanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/PersonPanel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/ProjectPanel$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/ProjectPanel$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/ProjectPanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/ProjectPanel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/RecallPanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/RecallPanel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/RemoveEcuAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/RemoveEcuAction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/RemovePersonAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/RemovePersonAction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/SaveAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/SaveAction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/SaveAsAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/SaveAsAction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/SearchPersonAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/SearchPersonAction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/SearchVehicleIDAction.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/SearchVehicleIDAction.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/SoftwarePanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/SoftwarePanel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/VehiclePanel$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/VehiclePanel.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/gui/VehiclePanel.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/model/Ecu.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/model/Ecu.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/model/FactoryProject.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/model/FactoryProject.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/model/Person.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/model/Person.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/model/Project.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/model/Project.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/model/SimpleEcu.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/model/SimpleEcu.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/model/Software.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/model/Software.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/model/Vehicle.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/model/Vehicle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/model/XMLClient.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/model/XMLClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/model/XMLFormat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/model/XMLServer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/model/XMLServer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/model/XmlSerializer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/model/XmlSerializer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/Connection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/Connection.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/MessageListener.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/MessageListener.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/ReceiveWorker.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/ReceiveWorker.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/AbstractConnection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/AbstractConnection.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/Connection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/Connection.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/ConnectionImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/ConnectionImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/GUIConnect.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/GUIConnect.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/GUIServer$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/GUIServer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/GUIServer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/IPTools.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/IPTools.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/InternalReceiver.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/InternalReceiver.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/MessageListener.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/MessageListener.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/ReceiveWorker.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/ReceiveWorker.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/SendTimer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/SendTimer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/SimpleConnection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/SimpleConnection.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/TestCoClient.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/TestCoClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/TestCoClientAndServer$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/TestCoClientAndServer$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/TestCoClientAndServer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/TestCoClientAndServer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/TestCoServer$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/TestCoServer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/net/co/TestCoServer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/CreateFactoryDB.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/CreateFactoryDB.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/CreateGarageDB.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/CreateGarageDB.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/EcuDbStorage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/EcuDbStorage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/FactoryDbStorage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/FactoryDbStorage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/FileStorage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/FileStorage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/GarageDbStorage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/GarageDbStorage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/InsertTestDataFactoryDb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/InsertTestDataFactoryDb.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/InsertTestDataGarageDb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/InsertTestDataGarageDb.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/SoftwareDbStorage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/SoftwareDbStorage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/Storage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/Storage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/Testing.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/Testing.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/VehicleDbStorage.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/storage/VehicleDbStorage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/swingutil/EmailFormatter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/swingutil/EmailFormatter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/swingutil/FPFileFilter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/swingutil/FPFileFilter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/swingutil/RegexFormatter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/no/ntnu/fp/swingutil/RegexFormatter.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="FactoryProjectPanel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/gui/FactoryProjectPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-630">
+              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProjectPanel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/gui/ProjectPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="33" column="67" lean-forward="false" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="535">
+              <caret line="69" column="46" lean-forward="false" selection-start-line="69" selection-start-column="46" selection-end-line="69" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ecu.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/model/Ecu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FactoryProject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/model/FactoryProject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="102" column="55" lean-forward="true" selection-start-line="102" selection-start-column="55" selection-end-line="102" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/model/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Project.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/model/Project.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2877">
+              <caret line="147" column="42" lean-forward="true" selection-start-line="147" selection-start-column="42" selection-end-line="147" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleEcu.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/model/SimpleEcu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Software.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/model/Software.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vehicle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/model/Vehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SoCam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoCam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoCam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoCam" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="SearchEverywhereHistoryKey" value="projectpan&#9;PSI&#9;JAVA://no.ntnu.fp.gui.ProjectPanel&#10;factorypanel&#9;PSI&#9;JAVA://no.ntnu.fp.gui.FactoryProjectPanel&#10;insert&#9;PSI&#9;JAVA://no.ntnu.fp.storage.InsertTestDataGarageDb&#10;create&#9;PSI&#9;JAVA://no.ntnu.fp.storage.CreateGarageDB" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ProjectPanel">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="CreateGarageDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="no.ntnu.fp.storage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="no.ntnu.fp.storage.CreateGarageDB" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SoCam" />
+      <envs />
+    </configuration>
+    <configuration name="FactoryProjectPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="no.ntnu.fp.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="no.ntnu.fp.gui.FactoryProjectPanel" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SoCam" />
+      <envs />
+    </configuration>
+    <configuration name="InsertTestDataFactoryDb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="no.ntnu.fp.storage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="no.ntnu.fp.storage.InsertTestDataFactoryDb" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SoCam" />
+      <envs />
+    </configuration>
+    <configuration name="InsertTestDataGarageDb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="no.ntnu.fp.storage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="no.ntnu.fp.storage.InsertTestDataGarageDb" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SoCam" />
+      <envs />
+    </configuration>
+    <configuration name="ProjectPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="no.ntnu.fp.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="no.ntnu.fp.gui.ProjectPanel" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SoCam" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.CreateGarageDB" />
+      <item index="1" class="java.lang.String" itemvalue="Application.InsertTestDataFactoryDb" />
+      <item index="2" class="java.lang.String" itemvalue="Application.InsertTestDataGarageDb" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FactoryProjectPanel" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ProjectPanel" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.ProjectPanel" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FactoryProjectPanel" />
+        <item index="2" class="java.lang.String" itemvalue="Application.InsertTestDataGarageDb" />
+        <item index="3" class="java.lang.String" itemvalue="Application.InsertTestDataFactoryDb" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CreateGarageDB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7616a66-3c95-4d82-a8b1-aac5965f05a4" name="Default" comment="" />
+      <created>1523256669267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523256669267</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_SoCam - 2018.04.09 at 08h 52m 43s.xml">
+      <configuration name="All in SoCam" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/storage/CreateFactoryDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/storage/CreateGarageDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/storage/InsertTestDataGarageDb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/storage/InsertTestDataFactoryDb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/gui/FactoryProjectPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/gui/ProjectPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SoCam.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GarageDB/service.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5160">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/storage/CreateFactoryDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/storage/CreateGarageDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/storage/InsertTestDataFactoryDb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/storage/InsertTestDataGarageDb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/model/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/model/SimpleEcu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/model/Software.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/model/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/model/Ecu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/model/FactoryProject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="102" column="55" lean-forward="true" selection-start-line="102" selection-start-column="55" selection-end-line="102" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/model/Project.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2877">
+          <caret line="147" column="42" lean-forward="true" selection-start-line="147" selection-start-column="42" selection-end-line="147" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/gui/FactoryProjectPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/ntnu/fp/gui/ProjectPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="33" column="67" lean-forward="false" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="69" column="46" lean-forward="false" selection-start-line="69" selection-start-column="46" selection-end-line="69" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SoCam</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
