@@ -1,6 +1,8 @@
 package test;
 
+
 import no.ntnu.fp.model.Project;
+
 import no.ntnu.fp.model.Vehicle;
 import no.ntnu.fp.model.Ecu;
 import org.junit.Assert;
