@@ -21,8 +21,7 @@ public class FactoryProjectPanel extends JPanel implements ActionListener {
 	
     private VehiclePanel vehiclePanel;
 	
-	private JPanel cards;
-	private SoftwarePanel softwarePanel;
+	private JPanel cards;	private SoftwarePanel softwarePanel;
 	private EcuPanel ecuPanel;
 	private NewVehiclePanel newVehiclePanel;
 	private RecallPanel recallPanel;
