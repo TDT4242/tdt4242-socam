@@ -57,9 +57,6 @@ public class EcuTest {
 
         ecu.setNewest(false);
         Assert.assertFalse(ecu.isNewest());
-
-        // For some reason there is a static getter for a public final static field, might as well test it
-        Assert.assertEquals(Ecu.getECUID_PROPERTY_NAME(), Ecu.ECUID_PROPERTY_NAME);
     }
 
     @Test
