@@ -6,6 +6,8 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
+import java.beans.PropertyChangeEvent;
+import java.beans.PropertyChangeListener;
 import java.beans.PropertyChangeSupport;
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -18,7 +20,7 @@ public class FactoryProjectTest {
     SimpleEcu simpleEcu;
 
     @Test
-    public void constructoTest() {
+    public void constructorTest() {
         FactoryProject factoryProject1 = new FactoryProject();
 
         Assert.assertNotNull(factoryProject1);
@@ -184,6 +186,44 @@ public class FactoryProjectTest {
         factoryProject.addVehicle(vehicle);
         Assert.assertEquals(false, factoryProject.equals(factoryProject1));
 
+        factoryProject1.addVehicle(vehicle);
+        Assert.assertEquals(true, factoryProject.equals(factoryProject1));
+
+
+        Vehicle vehicle1 = new Vehicle();
+        factoryProject.removeVehicle(vehicle);
+        factoryProject.addVehicle(vehicle1);
+        Assert.assertEquals(false, factoryProject.equals(factoryProject1));
+
+
+
+    }
+
+    @Test
+    public void toStringTest(){
+        String expected = "project:\n";
+        Assert.assertEquals(expected,factoryProject.toString());
+        expected = "project:\n"+vehicle.toString()+"\n";
+        factoryProject.addVehicle(vehicle);
+        Assert.assertEquals(expected,factoryProject.toString());
+
+    }
+
+    @Test
+    public void propertyChangeTest(){
+        PropertyChangeListener p = new FactoryProject();
+        factoryProject.addPropertyChangeListener(p);
+        factoryProject.removePropertyChangeListener(p);
+
+        Vehicle v = new Vehicle();
+        String oldVal = "0";
+        String newVal = "1";
+        v.setVehicleID(oldVal);
+        v.setVehicleID(newVal);
+        v.addPropertyChangeListener(factoryProject);
+        PropertyChangeEvent e = new PropertyChangeEvent(v, "vehicleId", oldVal, newVal);
+        p.propertyChange(e);
+        Assert.assertEquals(newVal, v.getVehicleID());
 
     }
 
