@@ -57,9 +57,6 @@ public class EcuTest {
 
         ecu.setNewest(false);
         Assert.assertFalse(ecu.isNewest());
-
-        // For some reason there is a static getter for a public final static field, might as well test it
-        Assert.assertEquals(Ecu.getECUID_PROPERTY_NAME(), Ecu.ECUID_PROPERTY_NAME);
     }
 
     @Test
@@ -92,7 +89,11 @@ public class EcuTest {
         // No getters for the propertyChangeListener, hence test is only that they work thus far.
     }
 
-
+    @Test
+    public void testGetECUID_PROPERTY_NAME(){
+        // For some reason there is a getter for a public final static field in this class, but for 100% coverage we need this test.
+        Assert.assertEquals(Ecu.getECUID_PROPERTY_NAME(), Ecu.ECUID_PROPERTY_NAME);
+    }
 
 
 }
