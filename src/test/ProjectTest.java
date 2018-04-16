@@ -75,6 +75,7 @@ public class ProjectTest {
         String newVal = "1";
         v.setVehicleID(oldVal);
         v.setVehicleID(newVal);
+        v.addPropertyChangeListener(p);
         PropertyChangeEvent e = new PropertyChangeEvent(v, "vehicleId", oldVal, newVal);
         p.propertyChange(e);
         Assert.assertEquals(newVal, v.getVehicleID());
