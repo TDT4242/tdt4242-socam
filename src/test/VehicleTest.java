@@ -11,6 +11,7 @@ import org.junit.Test;
 import java.beans.PropertyChangeEvent;
 import java.beans.PropertyChangeListener;
 import java.util.ArrayList;
+import java.util.Iterator;
 
 public class VehicleTest {
 
@@ -62,14 +63,20 @@ public class VehicleTest {
 
 
         Vehicle veh1 = new Vehicle();
-
+        Assert.assertEquals(veh1.getLargestEcuId(), 0);
         veh1.addEcu(ecu1);
         veh1.addEcu(ecu2);
+        Assert.assertEquals(veh1.indexOf(ecu2), 1);
+        Iterator ecuIt = veh1.iterator();
+        Assert.assertEquals(ecuIt.next(), ecu1);
 
         Assert.assertEquals(veh1.getEcuCount(), 2);
         Assert.assertEquals(veh1.getEcu(0), ecu1);
         Assert.assertEquals(veh1.getLargestEcuId(), 8);
         Assert.assertEquals(veh1.contains(ecu1), true);
+        ArrayList<Ecu> ecuList = new ArrayList<>();
+        ecuList.add(ecu2);
+        veh1.setEcus(ecuList);
 
         veh1.removeEcu(ecu1);
         Assert.assertEquals(veh1.getEcuCount(), 1);
