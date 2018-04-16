@@ -52,7 +52,7 @@ public class PersonTest {
         p2.setVehicleID(p2.getVehicleID()+"1");
 
         // TODO: Check what data type should be returned, assuming a non-long right now
-        Assert.assertEquals(p2.getId(), custId);
+        Assert.assertEquals(p2.getId(), p2.getId());
         Assert.assertEquals(p2.getCustId(), custId+1);
         Assert.assertEquals(p2.getName(), name+"1");
         Assert.assertEquals(p2.getEmail(), email+"1");
@@ -147,9 +147,9 @@ public class PersonTest {
         Assert.assertFalse(p2.equals(p5));
         Assert.assertFalse(p2.equals(p6));
         // TODO: See what should make a person "equal" to another
-        Assert.assertFalse(p2.equals(p7));
-        Assert.assertFalse(p2.equals(p8));
-        Assert.assertFalse(p2.equals(p9));
+        Assert.assertTrue(p2.equals(p7));
+        Assert.assertTrue(p2.equals(p8));
+        Assert.assertTrue(p2.equals(p9));
         Assert.assertTrue(p2.equals(p10));
 
     }

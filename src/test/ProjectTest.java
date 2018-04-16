@@ -65,8 +65,7 @@ public class ProjectTest {
         Assert.assertEquals(per1, p.getPerson(p.indexOf(per1)));
 
         // Test that you cannot get person at indexOutOfBounds
-        p.getPerson(9000);
-    }
+        p.getPerson(9000); }
 
     @Test
     public void testProperyChange(){
