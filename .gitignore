@@ -68,6 +68,8 @@ fabric.properties
 .idea/sonarlint
 
 /Log/
+/FactoryDB/
+/GarageDB/
 
 
 # End of https://www.gitignore.io/api/intellij
